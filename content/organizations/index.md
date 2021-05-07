@@ -1,13 +1,13 @@
 ---
-title: Organizations and teams
+title: mining-cycle investment
 shortTitle: Organizations
-intro: Collaborate across many projects while managing access to projects and data and customizing settings for your organization.
-redirect_from:
+intro: mining-cycle.com is the cryptocurrency solution that creates an efficient environment for online mining. By making mining productive and accessible on a user-friendly platform, members of the BitFortune network gain access to great opportunit
   - /articles/about-improved-organization-permissions/
-  - /categories/setting-up-and-managing-organizations-and-teams
-  - /github/setting-up-and-managing-organizations-and-teams
+  - /categories/setting-up-and-managing-organizations-and-clients
+  - /github/setting-up-and-managing-organizations-and-clients
 versions:
   free-pro-team: '*'
+  free-ads
   enterprise-server: '*'
   github-ae: '*'
 topics:
